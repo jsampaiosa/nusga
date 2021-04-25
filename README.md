@@ -1,5 +1,8 @@
 # Nusga
 
+
+
+
 <sub>Meu portífólio de projetos de data science para a empresa Nusga Consultoria<sub>
 
 
