@@ -31,14 +31,14 @@ Veja os tutoriais publicados:
 Indicadores de Compras:
 
 * **Requisições de compras pendentes por ranges de tempos**
-* **Organograma da equipe:** https://
-* **Principais gastos por fornecedores, materiais e classe de compras:** https://
-* **Indicadores econômicos:** https://
-* **Prazo médio de atendimento:** https://
-* **Qualidade de insumos e materiais:** https://
-* **Savings por responsável:** https://
-* **Contratos:** https://
-* **Prazo médio de atendimento:** https://
+* **Organograma da equipe:**
+* **Principais gastos por fornecedores, materiais e classe de compras:**
+* **Indicadores econômicos:**
+* **Prazo médio de atendimento:**
+* **Qualidade de insumos e materiais:**
+* **Savings por responsável:**
+* **Contratos:**
+* **Prazo médio de atendimento:**
 
 Indicadores financeiros:
 
@@ -52,7 +52,7 @@ Indicadores financeiros:
 
 Indicadores de vendas:
 
-* **Ticket médio:** mostra o gasto médio por venda.**
+* **Ticket médio:** mostra o gasto médio por venda.
 * **Taxa de conversão:** obtida com base nas oportunidade geradas (propostas enviadas) e as que de fato converteram em vendas, desta forma, possibilita identificar a eficiência do seu time de vendas.
 * **Churn Rate:** mede a quantidade de Cancelamentos em determinado período, sobre o total de Clientes Ativos.
 * **Lifetime value:** quanto um cliente entrega de valor a sua empresa, ou seja, é quanto que você fatura com o cliente pelo tempo que ele permanecer em sua carteira
