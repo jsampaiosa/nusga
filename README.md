@@ -6,7 +6,7 @@
 <sub>Meu portífólio de projetos de data science para a empresa Nusga Consultoria<sub>
 
 
-As a experienced Bussiness inteligence, ability to work in team environments, and attention to details. Having spend the last years applying Data Science and Machine Learning in multinacional, solving real problems, I developed a critical thinking and problem-solving skills.
+As a experienced Business inteligence, ability to work in team environments, and attention to details. Having spend the last years applying Data Science and Machine Learning in multinacional, solving real problems, I developed a critical thinking and problem-solving skills.
 
 **Background in:** Python, Data Science and Machine Learning,
 
